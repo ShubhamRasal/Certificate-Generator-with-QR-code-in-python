@@ -61,5 +61,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-    time.sleep(2000)
     input("Please Enter to Exit")
