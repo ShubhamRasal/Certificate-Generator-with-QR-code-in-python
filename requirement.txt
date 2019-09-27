@@ -1,0 +1,4 @@
+Pillow==6.1.0
+qrcode==6.1
+xlrd==1.2.0
+
